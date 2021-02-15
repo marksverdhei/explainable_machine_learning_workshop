@@ -1,7 +1,7 @@
 # Explainable Machine Learning  
 A workshop by Markus S. Heiervang in collaboration with `[LI:ST]`: Linjeforeningen for informatikk språkteknologi  
 ***  
-\([Norsk readme tigjengelig her](https://github.com/marksverdhei/explainable_machine_learning_workshop/edit/master/README.md)\)  
+\([Norsk readme tigjengelig her](https://github.com/marksverdhei/explainable_machine_learning_workshop/blob/master/README.md)\)  
 
 In this workshop, we cover methods for inspecting and interpreting a variety of machine learning algorithms. We get familiar with the recently popular python library `SHAP` and learn how to apply the tools it provides on different kinds of data.  
 
