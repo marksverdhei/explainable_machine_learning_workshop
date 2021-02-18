@@ -1,0 +1,33 @@
+Markus Sverdvik Heiervang is inviting you to a scheduled Zoom meeting.
+
+Topic: Explainable machine learning workshop
+Time: Feb 18, 2021 04:00 PM Oslo
+
+Join Zoom Meeting
+https://uio.zoom.us/j/4745241015
+
+Meeting ID: 474 524 1015
+
+Documentation on how to use Zoom can be found here:
+https://www.uio.no/english/services/it/phone-chat-videoconf/zoom/
+
+One tap mobile
++46850500828,,4745241015# Sweden
++46844682488,,4745241015# Sweden
+
+Dial by your location
+        +46 8 5050 0828 Sweden
+        +46 8 4468 2488 Sweden
+        +45 32 71 31 57 Denmark
+        +45 32 70 12 06 Denmark
+Meeting ID: 474 524 1015
+Find your local number: https://uio.zoom.us/u/cdv9OCwh5I
+
+Join by SIP
+4745241015@109.105.112.236
+4745241015@109.105.112.235
+
+Join by H.323
+109.105.112.236
+109.105.112.235
+Meeting ID: 474 524 1015
